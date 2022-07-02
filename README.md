@@ -2,7 +2,7 @@
 
 This is the repo for GNN-PMB Tracker. The result of GNN-PMB + centerpoint detection from nuScenes validation data could be seen in gnnpmb_centerpoint_validation_result.out.
 
-* See more details from our paper: GNN-PMB: Jianan Liu, Liping Bai, Yuxuan Xia, Tao Huang, Bing Zhu, ["A Simple but Effective Online 3D Multi-Object Tracker without Bells and Whistles"] (https://arxiv.org/abs/2206.10255)
+See more details from our paper: GNN-PMB: Jianan Liu, Liping Bai, Yuxuan Xia, Tao Huang, Bing Zhu, ["A Simple but Effective Online 3D Multi-Object Tracker without Bells and Whistles"] (https://arxiv.org/abs/2206.10255)
 
 
 If you find our paper or code useful for you, please consider cite us by:
