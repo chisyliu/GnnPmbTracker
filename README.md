@@ -27,7 +27,7 @@ In the terminal, input the following command to install the environment:
 $ pip install -r requirements.txt
 ```
 
-## Compile murty for PMBM
+## Compile murty
 Follow the instructions as follows:
 
 1. Install eigen3.3. 
