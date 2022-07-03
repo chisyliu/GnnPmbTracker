@@ -108,9 +108,6 @@ v1.0-test
 
 ### Result folder
 Create a folder `YOUR_RESULT_FOLDER` to store the all the files related to tracking output.
-```
-in the Desktop, make a result folder, the path is /home/zhubinglab/Desktop/experiment_result 
-```
 
 
 
