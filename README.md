@@ -121,18 +121,18 @@ $ python3 utils/preprocessing.py --programme_file=YOUR_PROGRAMME_FOLDER --datase
 ```
 
 ### Run trackers
-For instance, you want to evaluate the pmbmgnn tracker with trainval dataset, centerpoint detection. Here are the steps you have to take to do so.
+For instance, you want to evaluate the gnn-pmb tracker with trainval dataset, centerpoint detection. Here are the steps you have to take to do so.
 
 ```
-$ python3 run_pmbmgnn_tracker.py --detection_file=YOUR_DETECTION_FILE_FOLDER --data_version='v1.0-trainval' --programme_file=YOUR_PROGRAMME_FOLDER --result_file=YOUR_RESULT_FOLDER --dataset_file=YOUR_DATASET_FOLDER
+$ python3 run_gnn_pmb_tracker.py --detection_file=YOUR_DETECTION_FILE_FOLDER --data_version='v1.0-trainval' --programme_file=YOUR_PROGRAMME_FOLDER --result_file=YOUR_RESULT_FOLDER --dataset_file=YOUR_DATASET_FOLDER
 ```
 
 The parallel process is the number of threads you want to run, in our case we can run up to 36 threads but that might not be the capacity for other machines. Adjust accordingly e.g.
 ```
-$ python3 run_pmbmgnn_tracker.py --parallel_process=36
+$ python3 run_gnn_pmb_tracker.py --parallel_process=36
 ```
 
 If you want to visualize the result, specify the render_classes, in your local machine, e.g.
 ```
-$ python3 run_pmbmgnn_tracker.py --render_classes='pedestrian'
+$ python3 run_gnn_pmb_tracker.py --render_classes='pedestrian'
 ```
