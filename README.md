@@ -9,7 +9,7 @@ If you find our paper or code useful for you, please consider cite us by:
 ```
 @article{liu2022gnn,
   title={GNN-PMB: A Simple but Effective Online 3D Multi-Object Tracker without Bells and Whistles},
-  author={Liu, Jianan and Bai, Liping and Xia, Yuxuan and Huang, Tao and Zhu, Bing},
+  author={Liu, Jianan and Bai, Liping and Xia, Yuxuan and Huang, Tao and Zhu, Bing and Han, Qing-Long},
   journal={arXiv e-prints},
   pages={arXiv--2206},
   year={2022}
