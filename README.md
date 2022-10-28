@@ -2,7 +2,7 @@
 
 
 ## News
-* 2022/10/21, Our paper "GNN-PMB: A Simple but Effective Online 3D Multi-Object Tracker without Bells and Whistles" has been accepted by **IEEE Transactions on Intelligent Vehicles**. See the early access article here: https://ieeexplore.ieee.org/document/9931411
+* 2022/10/21, Our paper "GNN-PMB: A Simple but Effective Online 3D Multi-Object Tracker without Bells and Whistles" has been accepted by **IEEE Transactions on Intelligent Vehicles**. See the early access article here in IEEE explore: https://ieeexplore.ieee.org/document/9931411
 * Code will be released soon. In case you are interested in getting the beta code before it is released, please contact jianan.liu@vitalent.se 
 * See more details from the arxiv version: Jianan Liu*, Liping Bai*, Yuxuan Xia, Tao Huang, Bing Zhu, Qing-Long Han, "GNN-PMB: A Simple but Effective Online 3D Multi-Object Tracker without Bells and Whistles" (https://arxiv.org/abs/2206.10255)
 
