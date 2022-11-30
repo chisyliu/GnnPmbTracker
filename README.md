@@ -2,8 +2,7 @@
 
 
 ## News
-* 2022/11/29, the code has been released in the repo. Please consider cite our paper if the code is useful for you.
-If you find our paper or code useful for you, please consider cite us by:
+* 2022/11/29, the code has been released in the repo. If you find our paper or code useful for you, please consider cite us by:
 ```
 @article{liu2022gnnpmb,
   title={GNN-PMB: A Simple but Effective Online 3D Multi-Object Tracker without Bells and Whistles},
