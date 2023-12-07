@@ -1,6 +1,10 @@
 # GNN-PMB Tracker
 
 
+GnnPmbTracker © 2022 by Jianan Liu is licensed under CC BY-NC-SA 4.0 
+
+
+
 ## News
 * 2022/11/29, the code has been released in the repo. If you find our paper or code useful for you, please consider cite us by:
 ```
